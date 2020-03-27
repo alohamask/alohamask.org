@@ -30,18 +30,22 @@ menu:
     - name: Home
       url: /
       weight: 1
-    - name: Blog
-      url: /post/
+    - name: Volunteering
+      url: /volunteering/
       weight: 2
-    - name: Tags
-      url: /tags/
+    - name: Instructions
+      url: /instructions/
       weight: 3
+    - name: Other Resources
+      url: /resources/
+      weight: 4
     - name: About
       url: /about/
-      weight: 4
-    - name: RSS
-      url: /index.xml
       weight: 5
+    - name: Blog
+      url: /post/
+      weight: 6
+
 
 markup:
   defaultMarkdownHandler: goldmark
