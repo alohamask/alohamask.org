@@ -45,6 +45,9 @@ menu:
     - name: About Us
       url: /about/
       weight: 6
+    - name: Contributing
+      url: /contributing/
+      weight: 7
 
 
 markup:
