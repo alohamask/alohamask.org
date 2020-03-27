@@ -33,7 +33,7 @@ menu:
     - name: Request Kits
       url: /requests/
       weight: 2
-    - name: Volunteer
+    - name: Volunteering
       url: /volunteering/
       weight: 3
     - name: Instructions
