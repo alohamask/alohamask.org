@@ -3,7 +3,7 @@ date: "2020-03-26"
 title: "alohamask"
 ---
 
-Welcome to **alohamask**: an attempt to bring together like minded volunteers for the design, creation, and distribution of open source masks and mask materials to essential workers in Hawaii.
+Welcome to **alohamask**: an attempt to bring together like-minded volunteers for the design, creation, and distribution of open source masks and mask materials to essential workers in Hawaii.
 
 **alohamask** is a platform for connecting volunteers with essential workers who require masks. **alohamask** also provides open source designs, processes, and instructions for creating masks. Find us on [GitHub](https://github.com/alohamask). Contributions welcome!
 

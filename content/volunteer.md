@@ -1,11 +1,11 @@
 ---
-date: "2020-03-26"
-title: "Volunteering"
+date: "2020-03-27"
+title: "Volunteer"
 ---
 
 ### Sewing
 
-We need people who have available thread and sewing machines who are able to:
+We need people who have available thread and sewing machines who are able to do the following:
 
 1. Receive materials already pre-cut for sewing
 2. Assemble and sew masks specifically according to the provided pattern and instructions
@@ -16,11 +16,11 @@ If you are interested in volunteering to sew, please fill out the following form
 
 ### Donating Supplies and Delivering Material
 
-We need volunteers who are able to:
+We need volunteers who are able to do the following:
 
 1. Donate cloth materials (we need specific types of cloth, preferably in uncut bolts; further information is forthcoming)
 2. Pick up and deliver pre-cut materials to sewing volunteers
-3. Pick up assembled masks from sewing volunteers & deliver to Hospitals and other organizations
+3. Pick up assembled masks from sewing volunteers & deliver to hospitals and other organizations
 
 If you are interested in volunteering to donate or deliver, please fill out the following form:
 * https://docs.google.com/forms/d/e/1FAIpQLSftQyjMjYyzOPFTIa61jpgSSptbET_IMFtnUkUJvybHG1Ub3g/viewform
