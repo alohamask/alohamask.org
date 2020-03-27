@@ -14,7 +14,7 @@ We need people who have available thread and sewing machines who are able to:
 If you are interested in volunteering to sew, please fill out the following form:
 * https://docs.google.com/forms/d/e/1FAIpQLSdXFniqm1C3n3G9cq_NM52ADRSx0eLHl3TYYuKPnc-RZuAUPg/viewform
 
-### Donating Supplies and Deliverying Material
+### Donating Supplies and Delivering Material
 
 We need volunteers who are able to:
 
