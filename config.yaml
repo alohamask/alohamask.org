@@ -30,7 +30,7 @@ menu:
     - name: Home
       url: /
       weight: 1
-    - name: Request Kits
+    - name: Request Masks
       url: /requests/
       weight: 2
     - name: Volunteering
