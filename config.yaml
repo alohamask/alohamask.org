@@ -42,7 +42,7 @@ menu:
     - name: Other Resources
       url: /resources/
       weight: 5
-    - name: About
+    - name: About Us
       url: /about/
       weight: 6
 
