@@ -1,18 +1,14 @@
 ---
-date: "2017-06-26T18:27:58+01:00"
+date: "2020-03-26"
 title: "alohamask"
 ---
 
 Welcome to **alohamask**: an attempt to bring together like minded volunteers for the design, creation, and distribution of open source masks and mask materials to essential workers in Hawaii.
 
-### Our Mission
-TODO
+**alohamask** is a platform for connecting volunteers with essential workers who require masks. **alohamask** also provides open source designs, processes, and instructions for creating masks. Find us on [GitHub](https://github.com/alohamask). Contributions welcome!
 
-### Volunteering
-TODO
+To learn more, click one of the links on the left. 
 
-### Getting in Touch
-TODO
+Contact us at: [m3oahu@gmail.com](mailto:m3oahu@gmail.com)
 
-### Designs and Software
-TODO
+_Note: This platform is a work in progress. Please be patient as we roll out more information._

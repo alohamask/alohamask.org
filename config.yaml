@@ -30,20 +30,20 @@ menu:
     - name: Home
       url: /
       weight: 1
-    - name: Volunteering
-      url: /volunteering/
+    - name: Request Kits
+      url: /requests/
       weight: 2
+    - name: Volunteer
+      url: /volunteering/
+      weight: 3
     - name: Instructions
       url: /instructions/
-      weight: 3
+      weight: 4
     - name: Other Resources
       url: /resources/
-      weight: 4
+      weight: 5
     - name: About
       url: /about/
-      weight: 5
-    - name: Blog
-      url: /post/
       weight: 6
 
 
