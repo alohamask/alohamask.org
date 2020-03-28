@@ -1,4 +1,5 @@
 *.iml
 .idea
-public
+alohamask.org/public
 deploy.sh
+build
