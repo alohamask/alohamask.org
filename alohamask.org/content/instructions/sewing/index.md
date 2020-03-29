@@ -30,6 +30,9 @@ To make an Aloha Mask, you will need the following:
 * Aloha fu face mask kit
 
 ### Sewing Instructions
+
+Use 100% cotton or all-purpose thread, 10-12 stitches per inch, 3/8 - 4/8 inch seam allowance.
+
 ##### 1. Join center seam
 
 Note which side of the fabric is intended to be externally facing for the finished mask (i.e., the “good side”). Overlap two pieces of fabric such that the good sides are facing each other. Sew along the curved edge to form the center seam.
