@@ -1,5 +1,6 @@
 *.iml
 .idea
 alohamask.org/public
+alohamask.org/resources
 deploy.sh
 build

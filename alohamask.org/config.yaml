@@ -30,24 +30,27 @@ menu:
     - name: Home
       url: /
       weight: 1
+    - name: News
+      url: /news/
+      weight: 2
     - name: Request Masks
       url: /requests/
-      weight: 2
+      weight: 3
     - name: Volunteer
       url: /volunteer/
-      weight: 3
+      weight: 4
     - name: Instructions
       url: /instructions/
-      weight: 4
+      weight: 5
     - name: Other Resources
       url: /resources/
-      weight: 5
+      weight: 6
     - name: About Us
       url: /about/
-      weight: 6
+      weight: 7
     - name: Contributing
       url: /contributing/
-      weight: 7
+      weight: 8
 
 
 markup:
