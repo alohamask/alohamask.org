@@ -3,7 +3,7 @@ date: "2020-03-27"
 title: "Volunteer"
 ---
 
-### Sewing
+## Sewing
 
 We need people who have available thread and sewing machines who are able to do the following:
 
@@ -16,7 +16,7 @@ If you are interested in volunteering to sew, please fill out the following form
 
 _Instructions for [sewing volunteers]({{< ref "/instructions/sewing" >}})_.
 
-### Donating Supplies and Delivering Material
+## Donating Supplies and Delivering Material
 
 We need volunteers who are able to do the following:
 
