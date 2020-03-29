@@ -6,15 +6,20 @@ date: 2020-03-28
 ### Update for 28 March 2020
 
 ##### Mask Kits
-* +10 kits of 5 masks each ready for sewing to be delivered to [UCERA](https://uhphawaii.org/)
-* +1 kit of 5 masks to be delivered to [UHM Dept. of Theatre](http://manoa.hawaii.edu/liveonstage/) for evaluation
-* 11 total kits (55 masks) have been assembled to date
+
+We only started tracking production numbers on 27 March 2020. Before that date, **alohamask** produced around 100 mask kits. We will be tracking and reporting detailed production numbers moving forward. Since 27 March 2020, we've produced the following mask kits.
+
+* +50 mask kits to be delivered to [UCERA](https://uhphawaii.org/)
+* +50 mask kits to be delivered to volunteers
+* +5 mask kits to be delivered to [UHM Dept. of Theatre](http://manoa.hawaii.edu/liveonstage/) for evaluation
+* 200 total mask kits to date
 
 {{< figureCupper
 img="first_kit.jpg" 
-caption="Fit set of 11 kits with 5 masks each ready for sewing" 
+caption="Mask kits ready for delivery" 
 command="Resize" 
 options="700x" >}}
+
 ##### Volunteers
 * 7 delivery volunteers (7 total to date)
 * 13 sewing volunteers (13 total to date)
