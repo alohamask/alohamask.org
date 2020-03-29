@@ -3,7 +3,7 @@ date: "2020-03-26"
 title: "alohamask"
 ---
 
-_Latest News: [aloha, world. 28 March 2020]({{< ref "/news/aloha_world" >}})_
+_Latest News: [University of Hawaii News features alohasmask. 29 March 2020]({{< ref "/news/uh_news" >}})_
 
 Welcome to **alohamask**: an attempt to bring together like-minded volunteers for the design, creation, and distribution of open source masks and mask materials to essential workers in Hawaii.
 
