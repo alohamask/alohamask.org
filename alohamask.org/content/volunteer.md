@@ -12,7 +12,7 @@ We need people who have available thread and sewing machines who are able to do 
 3. Contact team for pick up after the masks have been assembled
 
 If you are interested in volunteering to sew, please fill out the following form:
-* https://docs.google.com/forms/d/e/1FAIpQLSdXFniqm1C3n3G9cq_NM52ADRSx0eLHl3TYYuKPnc-RZuAUPg/viewform
+* [Sewing Volunteer Form](https://docs.google.com/forms/d/e/1FAIpQLSdXFniqm1C3n3G9cq_NM52ADRSx0eLHl3TYYuKPnc-RZuAUPg/viewform)
 
 ### Donating Supplies and Delivering Material
 
@@ -23,4 +23,4 @@ We need volunteers who are able to do the following:
 3. Pick up assembled masks from sewing volunteers & deliver to hospitals and other organizations
 
 If you are interested in volunteering to donate or deliver, please fill out the following form:
-* https://docs.google.com/forms/d/e/1FAIpQLSftQyjMjYyzOPFTIa61jpgSSptbET_IMFtnUkUJvybHG1Ub3g/viewform
+* [Donation and Delivery Volunteer Form](https://docs.google.com/forms/d/e/1FAIpQLSftQyjMjYyzOPFTIa61jpgSSptbET_IMFtnUkUJvybHG1Ub3g/viewform)
