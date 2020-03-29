@@ -50,7 +50,7 @@ Consisting mostly of scientists, academics, and engineers, we strive to make thi
 
 We face many challenges and will be discussing those in our news items. Recent discussions have been centered around the types of material we will be requesting for donation, the particular templates that will be laser cut, how to sanitize the materials, the safety of our volunteers, and the best way to distribute materials during a state-at-home order. Our team of volunteers are working together and with other organizations to solve these issues. We will keep you updated as this movement progresses.
 
-As a parting note, if you have any interest in volunteering, please get in touch with us. We are looking for fabric donations, volunteers for delivery, and volunteers with a sewing machine who are willing to sow.
+As a parting note, if you have any interest in volunteering, please get in touch with us. We are looking for fabric donations, volunteers for delivery, and volunteers with a sewing machine who are willing to sew.
 
 Please stay safe. Together, we will get through this. 
 
