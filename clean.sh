@@ -1,4 +1,9 @@
-#!/usr/bin/env bash
+# Clean up build files
 
-rm -rf build
-rm -rf alohamask.org/public
+#!/usr/bin/env bash
+set -o nounset
+set -o errexit
+set -o xtrace
+
+rm -rf build                # Remove build files and distributions
+rm -rf alohamask.org/public # Remove build files
