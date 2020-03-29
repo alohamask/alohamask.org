@@ -5,6 +5,12 @@ title: "Sewing Instructions"
 
 _These instructions are also [available as a PDF](https://github.com/alohamask/design/raw/master/resources/aloha_mask_instructions.pdf)._
 
+Thank you for your interest receiving materials and sewing masks for **alohamask**. These instructions are for those that have signed up to sew masks from kits that we will be providing, and then setting out the completed masks for our Delivery Volunteers to pick up.
+
+ We will provide your phone number and address to each Delivery Volunteer; they are instructed to text you for specifics of how to drop off kits to you when they arrive, and leave the kits on your doorstep or other location you specify.
+ 
+We want to emphasize safety and social distancing; as such, we will be providing all drivers with one mask to wear during their volunteer work.  We also ask that you use the first mask you assemble from the provided kits to wear while assembling the remaining kits.
+
 ### Safety and Mask Kit Management
 
 * Please sanitize any work surfaces before assembly of any mask kits.
@@ -88,3 +94,5 @@ img="instructions_6.png"
 caption="Stitching strap edges" 
 command="Resize" 
 options="700x" >}}
+
+_If you are interested in volunteering to sew mask kits, please visit our [volunteer page]({{< ref "/volunteer" >}})_.
