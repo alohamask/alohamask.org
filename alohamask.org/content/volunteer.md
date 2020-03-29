@@ -14,6 +14,8 @@ We need people who have available thread and sewing machines who are able to do 
 If you are interested in volunteering to sew, please fill out the following form:
 * [Sewing Volunteer Form](https://docs.google.com/forms/d/e/1FAIpQLSdXFniqm1C3n3G9cq_NM52ADRSx0eLHl3TYYuKPnc-RZuAUPg/viewform)
 
+_Instructions for [sewing volunteers]({{< ref "/instructions/sewing" >}})_.
+
 ### Donating Supplies and Delivering Material
 
 We need volunteers who are able to do the following:
@@ -24,3 +26,5 @@ We need volunteers who are able to do the following:
 
 If you are interested in volunteering to donate or deliver, please fill out the following form:
 * [Donation and Delivery Volunteer Form](https://docs.google.com/forms/d/e/1FAIpQLSftQyjMjYyzOPFTIa61jpgSSptbET_IMFtnUkUJvybHG1Ub3g/viewform)
+
+_Instructions for [delivering material]({{< ref "/instructions/delivery" >}}) and [donating material]({{< ref "/instructions/donation" >}})._
