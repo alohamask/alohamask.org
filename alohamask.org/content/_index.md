@@ -9,8 +9,6 @@ Welcome to **alohamask**: an attempt to bring together like-minded volunteers fo
 
 To learn more, click one of the links on the left. 
 
-Contact us at: [m3oahu@gmail.com](mailto:m3oahu@gmail.com)
-
 ##### Latest News
 
 * [29 March 2020. University of Hawaii News features alohasmask. ]({{< ref "/news/uh_news" >}})
