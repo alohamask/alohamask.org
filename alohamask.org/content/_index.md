@@ -11,7 +11,7 @@ To learn more, click one of the links on the left.
 
 ##### Latest News
 
-* [29 March 2020. University of Hawaii News features alohasmask. ]({{< ref "/news/uh_news" >}})
+* [29 March 2020. alohamask is featured on the news. ]({{< ref "/news/uh_news" >}})
 * [28 March 2020. aloha, world.]({{< ref "/news/aloha_world" >}})
 
 ##### Numbers to Date
