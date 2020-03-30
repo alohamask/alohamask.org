@@ -1,11 +1,15 @@
 ---
-title: "University of Hawaii News features alohasmask"
+title: "alohamask in the news"
 date: 2020-03-29
 ---
 
 **alohasmask** was featured in University of Hawaii news. 
 
 Read more at https://www.hawaii.edu/news/2020/03/29/student-mask-sewing-kits/
+
+**alohasmask** was featured in on KHON2. 
+
+Read more at https://www.khon2.com/coronavirus/uh-manoa-students-make-mask-sewing-kits/
 
 ### Update for 29 March 2020
 
