@@ -34,7 +34,7 @@ We are using the [cupper theme](https://themes.gohugo.io/cupper-hugo-theme/) to 
 
 After reading through the hugo documentation and the cupper documentation, the best way to learn how hugo and cupper work is by going through cupper's [exampleSite directory](https://github.com/zwbetz-gh/cupper-hugo-theme/tree/master/exampleSite), which when compiled, produces [this](https://themes.gohugo.io/theme/cupper-hugo-theme/).
 
-User feedback is currently handled by Google forms whose URLs are embedded in the source of the static site. We also utilize a shared Google account to track and organize responses and volunteers. Eventually, we may more to a more robust web framework and collect our own form values. Because we wanted to make this as accessible as possible and to get off the ground quickly, we decided a static site makes the most sense for the time being.
+User feedback is currently handled by Google forms whose URLs are embedded in the source of the static site. We also utilize a shared Google account to track and organize responses and volunteers. Eventually, we may move to a more robust web framework and collect our own form values. Because we wanted to make this as accessible as possible and to get off the ground quickly, we decided a static site makes the most sense for the time being.
 
 #### Some basic bits on interacting with hugo
 
