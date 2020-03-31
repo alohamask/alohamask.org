@@ -11,11 +11,11 @@ To learn more, click one of the links on the left.
 
 ##### Latest News
 
+* [30 March 2020. Swell of volunteers.]({{< ref "/news/swell_of_volunteers" >}})
 * [29 March 2020. alohamask in the news.]({{< ref "/news/uh_news" >}})
-* [28 March 2020. aloha, world.]({{< ref "/news/aloha_world" >}})
 
 ##### Numbers to Date
 
-* Sewing Volunteers - 17
-* Delivery Volunteers - 7
-* Mask Kits Produced - 200
+* Sewing Volunteers - 440
+* Delivery Volunteers - 40
+* Mask Kits Produced - 370
