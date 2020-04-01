@@ -1,15 +1,7 @@
 ---
-date: "2020-03-26"
+date: "2020-04-01"
 title: "alohamask"
 ---
-
----
-
-__Important Update: 31 March 2020.__ Due to overwhelming demand, our e-mail account is currently not permitted to send outgoing emails (Google marked us as spam with the amount of e-mails we've been sending). We are __still receiving e-mails and our volunteer forms are still operational__. We will not be able to respond to any emails until after 31 March 2020 at 8PM HST. 
-
-We will respond to inquiries as soon as our e-mail is back in order. Thank you for your patience.
-
---- 
 
 Welcome to **alohamask**: an attempt to bring together like-minded volunteers for the design, creation, and distribution of open source masks and mask materials to essential workers in Hawaii.
 
