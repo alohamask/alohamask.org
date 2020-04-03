@@ -1,6 +1,6 @@
 ---
-date: "2020-03-28"
-title: "Sewing Instructions"
+date: "2020-04-01"
+title: "Fu Mask Sewing Instructions"
 ---
 
 _These instructions are also [available as a PDF](https://github.com/alohamask/design/raw/master/resources/aloha_mask_instructions.pdf)._
