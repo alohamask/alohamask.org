@@ -5,7 +5,7 @@ title: "Olson Mask Sewing Instructions"
 
 ### Olson Pattern
 
-The Olson pattern PDF is available [on out GitHub](https://github.com/alohamask/design/raw/master/resources/olson_pattern_v3.pdf).
+The Olson pattern PDF is available [on our GitHub](https://github.com/alohamask/design/raw/master/resources/olson_pattern_v3.pdf).
 
 ### Attaching straps
 
