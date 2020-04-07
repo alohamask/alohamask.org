@@ -11,6 +11,7 @@ To learn more, click one of the links on the left.
 
 ##### Latest News
 
+* [05 April 2020. Cutting 1000 Masks Per day]({{< ref "/news/1k_mask" >}})
 * [02 April 2020. 2 April 2020 Update]({{< ref "/news/april_2" >}})
 * [30 March 2020. Swell of volunteers.]({{< ref "/news/swell_of_volunteers" >}})
 * [29 March 2020. alohamask in the news.]({{< ref "/news/uh_news" >}})
