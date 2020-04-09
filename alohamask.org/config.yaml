@@ -42,15 +42,18 @@ menu:
     - name: Instructions
       url: /instructions/
       weight: 5
+    - name: Donations
+      url: /donations/
+      weight: 6
     - name: Other Resources
       url: /resources/
-      weight: 6
+      weight: 7
     - name: About Us
       url: /about/
-      weight: 7
+      weight: 8
     - name: Contributing
       url: /contributing/
-      weight: 8
+      weight: 9
 
 
 markup:
