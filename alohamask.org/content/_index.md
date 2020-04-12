@@ -20,4 +20,4 @@ To learn more, click one of the links on the left.
 
 * Sewing Volunteers - Over 530 
 * Delivery Volunteers - 65
-* Mask Kits Produced - 566
+* Mask Kits Produced - 3000

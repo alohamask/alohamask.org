@@ -3,7 +3,7 @@ date: "2020-04-1"
 title: "Mask Patterns"
 ---
 
-**alohamask** is producing several different mask patterns to meet the diverse needs of the hospitals and organizations we are working with.
+**alohamask** is producing several different mask patterns to meet the diverse needs of the hospitals and organizations we are working with.  
 
 The following is a catalogue of mask templates that we can produce.
 
