@@ -10,6 +10,8 @@ Welcome to **alohamask**: an attempt to bring together like-minded volunteers fo
 To learn more, click one of the links on the left. 
 
 ##### Latest News
+* [18 April 2020. Thank you to everyone who donated.]({{<ref "news/donations/">}})
+* [17 April 2020. Olson instructions have been updated.]({{<ref "instructions/sewing/olson">}})
 * [12 April 2020. Adding a nose wire to a cloth mask.]({{<ref "instructions/sewing/nose_bridge.md">}})
 * [05 April 2020. Cutting 1000 Masks Per day.]({{< ref "/news/1k_mask" >}})
 * [02 April 2020. 2 April 2020 Update.]({{< ref "/news/april_2" >}})
@@ -20,4 +22,4 @@ To learn more, click one of the links on the left.
 
 * Sewing Volunteers - Over 530 
 * Delivery Volunteers - 65
-* Mask Kits Produced - 3000
+* Mask Kits Produced - 5500
