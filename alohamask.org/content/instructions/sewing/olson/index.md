@@ -18,7 +18,8 @@ Before you start:
 - Please coordinate with the Delivery Volunteer to leave the kits in a safe place for them after you have verified they are outside to pick it up; please keep the completed masks indoors until they arrive to pick it up.
 - Please wash your hands before and after handling any boxes or materials; all goods will be provided to you in initially sanitary bags,and want to do our best to keep things as close to sterile as possible in the sewing environments.
 - __If at ANY point you are feeling ill or sick, please cease work and contact the Volunteer Coordinator ASAP.__
-
+- Seam Allowance - 1/4 inch (6.4mm)
+- Stitch Length - 10-12 stitches per inch (~2.5mm)
 
 There are three main pieces to the Olson mask. We will refer to them as shown in the picture below:
 
