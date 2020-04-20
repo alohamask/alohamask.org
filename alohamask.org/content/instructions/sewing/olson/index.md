@@ -5,13 +5,21 @@ title: "Olson Mask Sewing Instructions"
 
 ### Olson Pattern
 
-The original Olson pattern PDF is available [on our GitHub](https://github.com/alohamask/design/raw/master/resources/olson_pattern_v3.pdf). AlohaMask Olson pattern is modified to save on fabric, and accommodate strap and ear loop attachment. 
 Before you start:
-- Make sure you read all of the instruction steps before you start.
-- Make sure your sewing machine is setup with correct tension.
-- Make sure your workplace is clean. 
+
+- Make sure your sewing machine is setup with correct tension. 
 - If you are pinning the pieces together, pin them at the seam allowance otherwise you might ruin the mask.
- 
+- Please sanitize any work surfaces before assembly of any mask kits.
+- Please wear a mask while assembling kits; you may use the first mask in your kit for this purpose.
+- Please let us know if any clarification is needed, if you are having trouble so is someone else. That means our instructions need work.
+- Please maintain social distancing of 6 feet or greater at all times.
+- Please return all assembled masks to the bag the materials came in.
+- After you have finished sewing all the masks in your kit, please contact the Volunteer Coordinator via either email or text message, who will then arrange for the kits to be picked up by a Delivery Volunteer.
+- Please coordinate with the Delivery Volunteer to leave the kits in a safe place for them after you have verified they are outside to pick it up; please keep the completed masks indoors until they arrive to pick it up.
+- Please wash your hands before and after handling any boxes or materials; all goods will be provided to you in initially sanitary bags,and want to do our best to keep things as close to sterile as possible in the sewing environments.
+- __If at ANY point you are feeling ill or sick, please cease work and contact the Volunteer Coordinator ASAP.__
+
+
 There are three main pieces to the Olson mask. We will refer to them as shown in the picture below:
 
 {{< figureCupper
@@ -20,8 +28,12 @@ caption="Olson Mask pieces"
 command="Resize" 
 options="700x" >}}
 
+- Piece 1 makes up the front of the mask.
+- Piece 2 makes up the back of the mask and the filter pocket.
+- Phase 3 makes up the sides of the mask and the attachment points for the straps or ear loops.
+
 #### Step 1:
-Take two mirror pieces (#1 above) and align them right sides together.
+Take two mirror front pieces (#1 above) and align them right sides together.
 
 {{< figureCupper
 img="step2.jpg" 
@@ -38,7 +50,7 @@ command="Resize"
 options="700x" >}}
 
 #### Step 2:
-Repeat step 1, this time sewing together the pieces shown as #2 above. After completing steps 1 and 2, you should end up with two pieces that look like this:
+Repeat step 1, this time sewing together the front pieces. After completing steps 1 and 2, you should end up with two pieces that look like this:
 
 {{< figureCupper
 img="step4.jpg" 
@@ -47,7 +59,7 @@ command="Resize"
 options="700x" >}}
 
 #### Step 3:
-Starting from the piece you made in Step 2. Fold the straight edges towards the wrong side and stitch them to prevent fraying:
+Starting from the **Back** piece you made in Step 2. Fold the straight edges towards the wrong side and stitch them to prevent fraying:
 
 {{< figureCupper
 img="step5.jpg" 
@@ -64,11 +76,19 @@ command="Resize"
 options="700x" >}}
 
 #### Step 4:
-Now take piece you made in Step 3 and Step 1. Align them right sides together:
+Now take the **Front** and **Back** pieces. Turn the **Front** piece right side out.  Turn the The **Front** and **Back** are nesting in each other, printed layers together. 
  
 {{< figureCupper
  img="step8.jpg" 
- caption="Align pieces."
+ caption="Align pieces. along the two stitch lines."
+ command="Resize" 
+options="700x" >}}
+
+Notice how the printed sides of the fabric are together.
+
+{{< figureCupper
+ img="step8.5.jpg" 
+ caption="Aligned Pieces."
  command="Resize" 
 options="700x" >}}
 
@@ -106,7 +126,7 @@ You will end up with a piece that looks like this:
 options="700x" >}}
 
 #### Step 6:
-Next we will attach pattern piece 3 to the result of Step 5. Align the straight edges of the two pieces as shown below: 
+Next we will attach the **Side** to the result of Step 5. Align the straight edges of the two pieces as shown below: 
    
 {{< figureCupper
  img="step13.jpg" 
@@ -145,36 +165,6 @@ options="700x" >}}
 options="700x" >}}
 
 #### Step 7:
-Turn your mask inside out. It should look like this:
-
-{{< figureCupper
- img="step19.jpg" 
- caption="Result of step 7.(Back)"
- command="Resize" 
-options="700x" >}}
-
-{{< figureCupper
- img="step20.jpg" 
- caption="Result of step 7.(Front)"
- command="Resize" 
-options="700x" >}}
-
-#### Step 8:
-Fold the edges of the mask:
-
-{{< figureCupper
- img="step22.jpg" 
- caption="Folding the sides of the mask."
- command="Resize" 
-options="700x" >}}
-
-{{< figureCupper
- img="step21.jpg" 
- caption="Result of step 8."
- command="Resize" 
-options="700x" >}}
-
-#### Step 9:
 
 Kits will be delivered with ties or ear loops. There will be 40 ties with each kit, or an 80 inch strip of 1 inch knit stretchy material for making ear loops.
 
@@ -188,7 +178,44 @@ If your mask came with stretchy ear loops continue with these instructions. Cut 
  command="Resize" 
 options="700x" >}}
 
-#### Step 10:
+
+
+### Attaching the Ear loops:
+There are two different ways of attaching ear loops. Make sure you read both and choose the one you are most comfortable with:
+
+#### First method of attaching ear loops.
+
+#### Step 1:
+Turn your mask inside out. It should look like this:
+
+{{< figureCupper
+ img="step19.jpg" 
+ caption="Result of step 1.(Back)"
+ command="Resize" 
+options="700x" >}}
+
+{{< figureCupper
+ img="step20.jpg" 
+ caption="Result of step 1.(Front)"
+ command="Resize" 
+options="700x" >}}
+
+#### Step 2:
+Fold the edges of the mask:
+
+{{< figureCupper
+ img="step22.jpg" 
+ caption="Folding the sides of the mask."
+ command="Resize" 
+options="700x" >}}
+
+{{< figureCupper
+ img="step21.jpg" 
+ caption="Result of step 2."
+ command="Resize" 
+options="700x" >}}
+
+#### Step 3:
 
 Place the ear loops into the folded edges of the mask:
 
@@ -206,8 +233,21 @@ You can pin the ear loops in place without compromising the mask, but you will f
  command="Resize" 
 options="700x" >}}
 
-#### Step 11:
-Congratulations, you are Done! A first mask may take 30 minutes or so, but once you get comfortable with the pattern and these steps, you can cut that time down to 10-15 minutes. Here is a picture of what your mask should look like:
+### Alternative way of adding ear loops:
+
+Once you finish Step 6, before turning the mask inside out place the cut ribbon between the **Front** and **Side** pieces as shown below. Make sure the ribbon is folded 
+
+{{< figureCupper
+ img="step28.jpg" 
+ caption="Place the ear loops into the mask."
+ command="Resize" 
+options="700x" >}}
+
+Stitch at the white dashed lines to close the edges of the mask. Be careful to catch ONLY the ends of the knit strip while you stitch the sides closed.  Back stitch several times at the knit strip ends to reinforce.
+After stitching the edges closed, turn the mask rightside out. Mask is done.
+
+#### You are done!
+Congratulations, you finished a mask! A first mask may take 30 minutes or so, but once you get comfortable with the pattern and these steps, you can cut that time down to 10-15 minutes. Here is a picture of what your mask should look like:
 
 {{< figureCupper
  img="step26.jpg" 
@@ -221,6 +261,7 @@ options="700x" >}}
  command="Resize" 
 options="700x" >}}
 
+
 ### Adding a nose clamp:
 
 Only add a nose clamp if your kit came with them. Some hospitals will add it on site. Nose clamp directions are found here [here]({{< ref "/instructions/sewing/nose_bridge" >}})
@@ -229,4 +270,5 @@ Only add a nose clamp if your kit came with them. Some hospitals will add it on 
 Once you are comfortable with the pattern, consider chain stitching the pieces together. This will make sewing mask much faster and save on thread. Check out these awesome directions one of our sewing volunteers put together:
 {{<youtube 9Mh6Zjiwzyw>}} 
 
-
+### Resources:
+The original Olson pattern PDF is available [on our GitHub](https://github.com/alohamask/design/raw/master/resources/olson_pattern_v3.pdf). AlohaMask Olson pattern is modified to save on fabric, and accommodate strap and ear loop attachment. 
