@@ -7,7 +7,8 @@ title: "Donations"
 
 We are only able to take donations of the following:
 
-* Cloth fabric, tightly-woven medium weight 100% cotton, at least 43 inches wide and at least 33 inches in length
+* 100% cotton tightly woven , at least 43 inches wide and at least 33 inches in length.  Rolls and bolts highly preferred.
+
 
 _Please note that due to hospital requirements, we are unable to accept other donations at this time._
 
