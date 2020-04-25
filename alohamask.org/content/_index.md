@@ -12,6 +12,7 @@ To learn more, click one of the links on the left.
 # Olson sewing instructions [here]({{<ref "instructions/sewing/olson">}})
 
 ##### Latest News
+* [25 April 2020. Olson instructions have been updated.]({{<ref "instructions/sewing/olson">}})
 * [20 April 2020. Olson instructions have been updated.]({{<ref "instructions/sewing/olson">}})
 * [18 April 2020. Thank you to everyone who donated.]({{<ref "news/donations/">}})
 * [17 April 2020. Olson instructions have been updated.]({{<ref "instructions/sewing/olson">}})
