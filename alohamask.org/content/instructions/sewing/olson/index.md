@@ -79,15 +79,7 @@ command="Resize"
 options="700x" >}}
 
 #### Step 4:
-With **Right** sides together, pin **Front** and **Back** matching the center seams and edges of the mask. Stitch along the top of the mask. Repeat by stitching along the bottom of the mask.
- 
-{{< figureCupper
- img="step8.jpg" 
- caption="Align pieces. along the two stitch lines."
- command="Resize" 
-options="700x" >}}
-
-You will end up with a piece that looks like this:
+With **Right** sides together, pin **Front** and **Back** matching the center seams and edges of the mask. Stitch along the top of the mask. Repeat by stitching along the bottom of the mask. You will end up with a piece that looks like this:
 
 {{< figureCupper
  img="step12.jpg" 
