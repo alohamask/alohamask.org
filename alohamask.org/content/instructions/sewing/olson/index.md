@@ -126,6 +126,7 @@ options="700x" >}}
 options="700x" >}}
 
 #### Step 6:
+**If your mask came with elastic, you will be attaching elastic head loops. Refer to the instructions for attaching elastic head loops [here]({{< ref "/instructions/sewing/loops" >}}) or as a separate [PDF](https://github.com/alohamask/design/raw/master/resources/head_loop_instructions.pdf)**
 
 **If your mask came with fabric rectangles refer to the instructions for attaching straps [here]({{< ref "/instructions/sewing/straps#example-attaching-straps-to-mask-olson-pattern" >}}) or as a [separate PDF](https://github.com/alohamask/design/raw/master/resources/olson_strap_installation.pdf).**
 
